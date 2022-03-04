@@ -8,7 +8,7 @@ import HNumber from "./utils/HNumber";
 import HString from "./utils/HString";
 import HTotp from "./utils/HTotp";
 
-export default {
+export {
   HApiAssert,
   CRequestBuilder,
   CDateTime,
